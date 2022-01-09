@@ -1,0 +1,38 @@
+Prove 01
+
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+•	https://github.com/jenlebaron/cse341.git
+
+3. Briefly list and describe the elements of the application that are functioning. 
+
+•	Sign up a Node.js-driven Server (port 3000)
+•	Handle 2 Routes: “/“ and “/users”
+    o	Return some greeting text on “/“ 
+    o	Return a list of dummy users on “/users”
+•	Add a form with a “username <input>to the “/” page, submit a POST request to “/create-user” upon a button click
+•	Add the “/create-user” route and parse the incoming data (the username) and simple log it to the console
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+•	They are all working correctly
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+•	I really liked learning how to use the localhost page.  There is always a big smile on my face when I can get my code to work properly.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+
+•	Better communication from the teacher on what is expected with the correct links, so it is a smooth week.
+
+7. Please select the category you feel best describes your assignment:
+
+•	5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+•	I picked 5 because when I watched the video it states that we didn’t need to check for Post in our if statements, but I did.
+
