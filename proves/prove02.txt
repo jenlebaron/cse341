@@ -4,26 +4,38 @@ Please answer the questions in this text file and submit it to I-Learn.
 
 1. Copy and paste the URL for your web application (e.g., Heroku):
 
+We have not learned how to do this yet.
+
 2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+https://github.com/jenlebaron/cse341.git
 
 3. Briefly list and describe the elements of the application that are functioning. 
 
 All of assignment 2 is completed.
-All of assignmebt 3 is completed.
+All of assignment 3 is completed.
+All of assignment 4 is completed.
 
 4. Briefly describe any pieces of the assignment that are not yet working correctly.
 
+I had a hard time getting the last assignment done but I did it.  I had to restart 
+my computer to make it work which was wierd.
+
 5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+The "coolest" thing I did was get all of my assignment done before my vacation.
 
 6. If you could change this assignment to be more effective or helpful, what would you change?
 
+I would change having better communication from the teacher.  
+Somethings need clarification but he is MIA.
+
 7. Please select the category you feel best describes your assignment:
-   1 - Some attempt was made
-   2 - Developing, but significantly deficient
-   3 - Slightly deficient, but still mostly adequate
-   4 - Meets requirements
+   
    5 - Shows creativity and excels above and beyond requirements
 
 8. Provide a brief justification (1-2 sentences) for selecting that category.
 
 I added 2 routes and more css with a nav bar and added error page in assignment 3. 
+I worked really hard on this assignment.  I got burned out with the last assignment 
+because of all the issues I had with it.
