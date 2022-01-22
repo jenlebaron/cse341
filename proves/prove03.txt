@@ -1,0 +1,36 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+    I tried to follow your video and had a lot of errors.  So I 
+    decided to focus on the assingment that needed to be done and work on this next week.
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+    https://github.com/jenlebaron/cse341.git
+
+3. Briefly list and describe the elements of the application that are functioning. 
+
+    I completed all of the tasks
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+    To my knowledge they are all working.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+    I like learning about how to add and delete products.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+
+    The videos are so long and it is hard to work and listen at the same time.  It makes for 
+    hours and hours of work on this class.  Way more than the 9-12 hours that it should be.
+
+7. Please select the category you feel best describes your assignment:
+   
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+    The fact that I got this done with being gone on vacation half the week is a miracle.
