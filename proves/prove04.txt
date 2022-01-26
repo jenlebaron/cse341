@@ -1,0 +1,36 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+    Your video was so helpful!  Thank you so much!  I wouldn't have figured all 
+    of that out on my own.
+
+    https://git.heroku.com/cse341-lebaron.git
+
+    https://cse341-lebaron.herokuapp.com/
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+    https://github.com/jenlebaron/cse341.git
+
+3. Briefly list and describe the elements of the application that are functioning. 
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+    I have a hard time anytime we are having to use and install new programs.  It is probably user 
+    error but things just don't go smoothly for me.  It would be helpful if they gave and actual 
+    link to the website on what we should use for MongoDB.  And a video that is up-to-date on what 
+    the website looks like so we know we are on the correct one. 
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category
