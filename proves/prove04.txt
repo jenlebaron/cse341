@@ -20,17 +20,25 @@ Please answer the questions in this text file and submit it to I-Learn.
 
 5. Briefly describe the "coolest" thing you learned while completing this assignment.
 
+    I do like seeing my app on heroku.  I think that is pretty cool.
+
 6. If you could change this assignment to be more effective or helpful, what would you change?
+
     I have a hard time anytime we are having to use and install new programs.  It is probably user 
     error but things just don't go smoothly for me.  It would be helpful if they gave and actual 
     link to the website on what we should use for MongoDB.  And a video that is up-to-date on what 
     the website looks like so we know we are on the correct one. 
 
+    Can I just say that I hate these videos?  This week was so confusing!  I don't feel that I learned 
+    anything about what was taught in the lesson because of how we skipped the chapters and then he does 
+    code and then changes it.  Why not do it the way we will be using it from the beginning?  It doesn't 
+    help me learn.  It makes it more confusing.
+
 7. Please select the category you feel best describes your assignment:
-   1 - Some attempt was made
-   2 - Developing, but significantly deficient
-   3 - Slightly deficient, but still mostly adequate
-   4 - Meets requirements
+  
    5 - Shows creativity and excels above and beyond requirements
 
 8. Provide a brief justification (1-2 sentences) for selecting that category
+
+    I chose this because my sync on VS somehow got unlinked with the master and all of my commits
+    that I had done for the last 2 days were erased and I had to start over.  Yay for me for this code working again.
