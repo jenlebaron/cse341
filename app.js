@@ -1,5 +1,5 @@
 const path = require('path');
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 const cors = require('cors'); 
 
 const express = require('express');
@@ -35,7 +35,7 @@ app.use(shopRoutes);
 app.use(errorController.get404);
 
 const corsOptions = {
-  origin: "https://git.heroku.com/cse341-lebaron.git", 
+  origin: "https://cse341-lebaron.herokuapp.com/", 
   optionsSuccessStatus: 200
 };
 app.use(cors(corsOptions));
@@ -49,7 +49,7 @@ const options = {
 };
 
 // Update the mongodb connect to yours
-const MONGODB_URL = process.env.MONGODB_URL || "mongodb+srv://jenlebaron:0d1YJ33NJApNXAub@cse341video.eyh1e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const MONGODB_URL = process.env.MONGODB_URL || "mongodb+srv://jenlebaron:0d1YJ33NJApNXAub@cse341video.eyh1e.mongodb.net/shop?retryWrites=true&w=majority";
 
 mongoose
   .connect(

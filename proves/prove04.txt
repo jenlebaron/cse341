@@ -41,4 +41,5 @@ Please answer the questions in this text file and submit it to I-Learn.
 8. Provide a brief justification (1-2 sentences) for selecting that category
 
     I chose this because my sync on VS somehow got unlinked with the master and all of my commits
-    that I had done for the last 2 days were erased and I had to start over.  Yay for me for this code working again.
+    that I had done for the last 2 days were erased and I had to start over.  Yay for me for this 
+    code working again.
