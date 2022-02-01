@@ -6,9 +6,9 @@ Please answer the questions in this text file and submit it to I-Learn.
     Your video was so helpful!  Thank you so much!  I wouldn't have figured all 
     of that out on my own.
 
-    https://git.heroku.com/cse341-lebaron.git
+    https://git.heroku.com/cse341-lebaron.git - this is the one I had in my app.js that was wrong
 
-    https://cse341-lebaron.herokuapp.com/
+    https://cse341-lebaron.herokuapp.com/- I changed it to this one.
 
 2. Copy and paste the URL for your source code repository (e.g., GitHub):
 
@@ -16,7 +16,11 @@ Please answer the questions in this text file and submit it to I-Learn.
 
 3. Briefly list and describe the elements of the application that are functioning. 
 
+    all of them are working properly now
+
 4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+    nothing it all works
 
 5. Briefly describe the "coolest" thing you learned while completing this assignment.
 
