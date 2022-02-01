@@ -71,11 +71,11 @@ const options = {
 };
 
 // Update the mongodb connect to yours
-// const MONGODB_URL = process.env.MONGODB_URL || "mongodb+srv://jenlebaron:0d1YJ33NJApNXAub@cse341video.eyh1e.mongodb.net/shop?";
+const MONGODB_URL = process.env.MONGODB_URL || MONGODB_URI;
 
 mongoose
   .connect(
-    MONGODB_URI, options
+    MONGODB_URL, options
   )
   .then(result => {
     User.findOne().then(user => {
