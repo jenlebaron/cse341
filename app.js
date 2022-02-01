@@ -12,7 +12,7 @@ const errorController = require('./controllers/error');
 const User = require('./models/user');
 
 const MONGODB_URI =
-"mongodb+srv://jenlebaron:0d1YJ33NJApNXAub@cse341video.eyh1e.mongodb.net/shop?retryWrites=true&w=majority";
+"mongodb+srv://jenlebaron:0d1YJ33NJApNXAub@cse341video.eyh1e.mongodb.net/shop?";
 
 const app = express();
 const store = new MongoDBStore({
@@ -29,12 +29,13 @@ const authRoutes = require('./routes/auth');
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(session({
-  secret: 'my secret', 
-  resave: false, 
-  saveUninitialized: false,
-  store: store
-})
+app.use(
+  session({
+    secret: 'my secret',
+    resave: false,
+    saveUninitialized: false,
+    store: store
+  })
 );
 
 app.use((req, res, next) => {
