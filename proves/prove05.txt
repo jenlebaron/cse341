@@ -1,0 +1,35 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+    https://cse341-lebaron.herokuapp.com/
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+    https://github.com/jenlebaron/cse341.git
+
+3. Briefly list and describe the elements of the application that are functioning. 
+
+    All of my code is working properly
+
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+    Everything works.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+    I like that I was able to receive and email showing that it worked.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+
+    The videos still suck.
+
+7. Please select the category you feel best describes your assignment:
+
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+    I was able to make it all work and was able to trouble shoot on my own this week.
