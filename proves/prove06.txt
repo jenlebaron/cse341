@@ -1,0 +1,42 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+    https://cse341-lebaron.herokuapp.com/
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+    https://github.com/jenlebaron/cse341.git
+
+3. Briefly list and describe the elements of the application that are functioning. 
+
+    Advanced Authentication
+    Understanding Validation
+    Error Handling
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+    Everything is working properly
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+    I like adding extra validation to the code that hepls the user know what they need to fix.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+
+    I wish there was better comunication in reguards to pushing to git hub with a token and making 
+    everything not work.  I am looking on how to fix it on my own so I can include a key so you can 
+    see the email without it crashing with git hub.
+
+7. Please select the category you feel best describes your assignment:
+  
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+    This week was a good week for me with the reading.  I understand the validation and 
+    error process because I learned that last semester.  I was able to follow along and 
+    get my code to work without getting help.  I do have a question, if I get my homework 
+    done before you grade the prior week, am I able to push it to heroku and not mess up 
+    last weeks grading?
