@@ -25,7 +25,7 @@ Please answer the questions in this text file and submit it to I-Learn.
 
 6. If you could change this assignment to be more effective or helpful, what would you change?
 
-    I wish there was better comunication in reguards to pushing to git hub with a token and making 
+    I wish there was better comunication in reguards to pushing to git hub with an api key and making 
     everything not work.  I am looking on how to fix it on my own so I can include a key so you can 
     see the email without it crashing with git hub.
 
