@@ -30,9 +30,15 @@
                     value="<%= oldInput.password %>">
             </div>
             <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+
+             <!-- An element to toggle between password visibility -->
+             <input id="showPassword" type="checkbox"> Show Password</input><br><br>
+            
             <button class="btn" type="submit">Login</button>
+            <script src="/public/js/main.js"></script>
         </form>
         <div class="centered">
+            <br>
             <a href="/reset">Reset Password</a>
         </div>
     </main>
